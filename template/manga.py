@@ -75,7 +75,7 @@ async def get_manga_data(manga_name: str, language: str, global_settings_collect
                     
                     manga_id = manga.get("id")
 
-                    manga_hub = (global_settings_collection.find_one({'_id': 'config'}) or {}).get('manga_hub', '@FraxxManga')
+                    manga_hub = (global_settings_collection.find_one({'_id': 'config'}) or {}).get('manga_hub', '@NineAnimeOfficial')
 
                     cover_url = await get_manga_cover(manga_id)
 
