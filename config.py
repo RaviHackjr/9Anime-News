@@ -7,4 +7,4 @@ URL_A = "https://myanimelist.net/rss/news.xml" #News RSS Feed Url 2
 URL_B = "https://cr-news-api-service.prd.crunchyrollsvc.com/v1/en-US/rss" #News RSS Feed Url 2
 START_PIC = "https://images5.alphacoders.com/113/thumb-1920-1134698.jpg" #Startup Pic
 ANILIST_API_URL = "https://graphql.anilist.co" #Don't touch it...
-MONGO_URI = "mongodb+srv://nitinkumardhundhara:DARKXSIDE78@cluster0.wdive.mongodb.net/?retryWrites=true&w=majority" #Databse uri get it from https://www.mongodb.com/
+MONGO_URI = "mongodb+srv://Blakite_Ravii:Ravi8962@cluster0.vdv6h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" #Databse uri get it from https://www.mongodb.com/
