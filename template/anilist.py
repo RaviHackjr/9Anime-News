@@ -65,7 +65,7 @@ async def get_anime_data(anime_name: str, language: str, subtitle: str, season: 
                     anime_id = anime.get("id")
 
                     # Fetch Main Hub from Global Config
-                    main_hub = (global_settings_collection.find_one({'_id': 'config'}) or {}).get('main_hub', 'NineAnimeOfficial')
+                    main_hub = (global_settings_collection.find_one({'_id': 'config'}) or {}).get('main_hub', '@NineAnimeOfficial')
 
                     poster_url = await get_poster(anime_id)
 
