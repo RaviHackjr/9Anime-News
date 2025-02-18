@@ -40,14 +40,14 @@ None till now
 
 
 ## How to host
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DARKXSIDE78/GenToolBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RaviHackjr/9Anime-News"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Credits
 * AniList Api ([GitHub](https://github.com/AniList/ApiV2-GraphQL-Docs))
 
 
-For improvements PR or contact [@DARKXSIDE78](https://t.me/DARKXSIDE78) or [@GenAnimeOfcChat](https://t.me/GenAnimeOfcchat)<br>
+For improvements PR or contact [@Blakite_Ravii](https://t.me/Blakite_Ravii) or [@DARKXSIDE78](https://t.me/DARKXSIDE78)<br>
 Can ask for support too...<br>
 <br>
 <h4>Note: This is VERSION 2 for the bot so don't expect much but we will add more things soon.<br>
